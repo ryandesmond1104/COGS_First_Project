@@ -1,1 +1,1 @@
-# greatest-hits
+## This project is a game that teaches people the different UCSD bus routes in an entertaining way. Each step of each route mimics the actual route and where it goes in real life. I created this project as a way of teaching new bus drivers the routes in a way that is both efficient and fun. (This was done for my COGS 18 Intro to Python course.) 
